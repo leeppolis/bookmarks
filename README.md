@@ -1,6 +1,6 @@
 # Bookmarks
 
-This is my first ReactJS adventure. In two nights, I've been able to completely rewrite the frontend of my personal bookmarks website, you can see it live at https://bks.simonelippolis.com
+This is my first ReactJS adventure. In two nights, I've been able to completely rewrite the frontend of my personal bookmarks website, you can see it live at https://bks.simonelippolis.com (some feature is still broken, some other will be added in the future).
 
 The backend that powers the site is base on my PHP Boilerplate, you can have a look at it here: https://github.com/leeppolis/php-boilerplate
 
