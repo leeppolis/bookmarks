@@ -88,6 +88,23 @@
     line-height:1.5;
 }
 
+.list .card header h1 {
+    font-weight:900;
+    line-height:1.5;
+}
+
+.list .card section {
+    display:none;
+}
+
+.list .card footer {
+    margin-top:0;
+}
+
+.list .card footer li:first-child {
+    display:none;
+}
+
 @media screen and (min-width: 760px) {
     .card header h1 {
         font-size:24px;

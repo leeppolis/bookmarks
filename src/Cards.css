@@ -1,24 +1,21 @@
 .grid {
-  border: 0;
-  margin: 0;
-  padding: 0;
-  margin-top: 60px;
-  position: relative;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    margin-top: 60px;
+    position: relative;
 }
 
 .grid .items,
 .grid .items .item {
     list-style: none;
-    margin:0;
-    padding:0;
-}
-
-.grid .items {
-
+    margin: 0;
+    padding: 0;
 }
 
 .grid .items .item {
-    display:block;
+    display: block;
+    margin-bottom: 40px;
 }
 
 @media screen and (min-width: 760px) {
@@ -30,16 +27,46 @@
         flex-wrap: wrap;
         justify-content: flex-start;
         margin: 0 -20px;
-        width:auto;
+        width: auto;
+    }
+
+    .grid .items.list {
+        align-content: none;
+        align-items: none;
+        display: block;
+        flex-direction: none;
+        flex-wrap: none;
+        justify-content: none;
+        width: auto;
     }
 
     .grid .items .item {
         align-self: auto;
         flex: 1 1 50%;
-        max-width:50%;
+        margin:0;
+        max-width: 50%;
         order: 0;
-        padding:0 20px 20px 20px;
+        padding: 0 20px 40px 20px;
+        position:relative;
+    }
 
+    .grid .items.list .item {
+        align-self: none;
+        display: block;
+        flex: none;
+        max-width:100%;
+        width: 100%;
+    }
+    
+    .grid .items.list .item:after {
+        background:#222;
+        bottom:15px;
+        content:"";
+        display:block;
+        height:1px;
+        left:20px;
+        position:absolute;
+        width:30%;
     }
 }
 
@@ -48,19 +75,15 @@
         margin-left: 60px;
         padding-right: 60px;
     }
-  
     .grid .items .item {
         flex-basis: 33.333333332%;
-        max-width:33.333333332%;
+        max-width: 33.333333332%;
     }
 }
 
 @media screen and (min-width: 1400px) {
     .grid .items .item {
         flex-basis: 25%;
-        max-width:25%;
+        max-width: 25%;
     }
 }
-
-
-

@@ -1,12 +1,11 @@
 {
-    "cards": [
-        {
+    "cards": [{
             "id": 2,
             "title": "BACCALÀ Premiere Issue",
             "media": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/macfamily-productnav-imac_2x.png",
             "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
             "link": "https://rivistabaccala.com/shop/fw17/",
-            "tags": [ "imported", "inspiration", "photography", "art", "design" ]
+            "tags": ["imported", "inspiration", "photography", "art", "design"]
         },
         {
             "id": 4,
@@ -14,7 +13,7 @@
             "media": "https://cdn.koolmoe.at/cdn/6tg4-56fwvjhgvdf8bndjcfyr32-utr67/2017/09/f2edae75aba2829f84b6dbcf186ffa54.jpg",
             "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
             "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
-            "tags": [ "photography", "women", "advertising", "discrimination", "getty images" ]
+            "tags": ["photography", "women", "advertising", "discrimination", "getty images"]
         },
         {
             "id": 22,
@@ -22,7 +21,7 @@
             "media": null,
             "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
             "link": "https://rivistabaccala.com/shop/fw17/",
-            "tags": [ "imported", "inspiration", "photography", "art", "design" ]
+            "tags": ["imported", "inspiration", "photography", "art", "design"]
         },
         {
             "id": 24,
@@ -30,7 +29,39 @@
             "media": "http://www.thefrontpage.it/wp-content/uploads/2013/03/BOOM.jpg",
             "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
             "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
-            "tags": [ "photography", "women", "advertising", "discrimination", "getty images" ]
+            "tags": ["photography", "women", "advertising", "discrimination", "getty images"]
+        },
+        {
+            "id": 21,
+            "title": "BACCALÀ Premiere Issue",
+            "media": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/macfamily-productnav-imac_2x.png",
+            "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
+            "link": "https://rivistabaccala.com/shop/fw17/",
+            "tags": ["imported", "inspiration", "photography", "art", "design"]
+        },
+        {
+            "id": 43,
+            "title": "From Sex Object to Gritty Woman: The Evolution of Women in Stock Photos",
+            "media": "https://cdn.koolmoe.at/cdn/6tg4-56fwvjhgvdf8bndjcfyr32-utr67/2017/09/f2edae75aba2829f84b6dbcf186ffa54.jpg",
+            "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
+            "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
+            "tags": ["photography", "women", "advertising", "discrimination", "getty images"]
+        },
+        {
+            "id": 322,
+            "title": "BACCALÀ Premiere Issue",
+            "media": null,
+            "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
+            "link": "https://rivistabaccala.com/shop/fw17/",
+            "tags": ["imported", "inspiration", "photography", "art", "design"]
+        },
+        {
+            "id": 224,
+            "title": "From Sex Object to Gritty Woman: The Evolution of Women in Stock Photos",
+            "media": "http://www.thefrontpage.it/wp-content/uploads/2013/03/BOOM.jpg",
+            "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
+            "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
+            "tags": ["photography", "women", "advertising", "discrimination", "getty images"]
         }
     ]
 }
