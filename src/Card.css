@@ -82,6 +82,18 @@
     content:".";
 }
 
+.card footer li.with-switch button.more {
+    display:none;
+}
+
+.card footer li.additional {
+    display:none;
+}
+
+.card footer li.with-switch:after {
+    content:".";
+}
+
 .card footer li,
 .card footer li button { 
     font-size:14px;
@@ -116,6 +128,26 @@
 
     .card img {
         height:250px;
+    }
+
+    .card footer li.with-switch button.more {
+        display: inline-block;
+    }
+    
+    .card footer li.additional {
+        display:none;
+    }
+
+    .card footer .show-all li.with-switch button.more {
+        display:none;
+    }
+
+    .card footer .show-all li.with-switch:after {
+        content:",";
+    }
+
+    .card footer .show-all li.additional {
+        display:inline-block;
     }
 }
 

@@ -61,3 +61,17 @@ button.tag:active {
     background: rgba(223, 236, 230, 0.25);
     color: #215a6d;
 }
+
+button.more {
+    background: rgba(223, 236, 230, 0.25);
+    border-radius: 5px;
+    font-family: "Source Sans Pro", Sans-Serif;
+    font-size: 10px !important;
+    padding: 0 10px;
+}
+
+button.more:hover,
+button.more:active {
+    background:#215a6d;
+    color:#fff;
+}
