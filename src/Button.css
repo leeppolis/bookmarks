@@ -1,25 +1,26 @@
 button {
-    background:transparent;
-    border:0;
-    color:#222;
-    cursor:pointer;
-    display:inline-block;
+    background: transparent;
+    border: 0;
+    color: #222;
+    cursor: pointer;
+    display: inline-block;
     font-family: "Source Sans Pro", sans-serif;
-    font-size:1.2rem;
-    line-height:1;
-    padding:0;
-    margin:0;    
+    font-size: 1.2rem;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+    outline: none;
     transition: all .5s ease-in-out;
-    will-change:color;
+    will-change: color;
 }
 
 button.hidden {
-    display:none;
+    display: none;
 }
 
 button.icon {
     font-family: 'icomoon' !important;
-    font-size:1.6rem;
+    font-size: 1.6rem;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
@@ -33,6 +34,7 @@ button.icon {
 button.icon:hover,
 button.icon:active {
     color: #215a6d;
+    outline: none;
 }
 
 button.icon.resetSearch:before {
@@ -52,7 +54,7 @@ button.tag {
     border-bottom: 1px solid rgba(33, 90, 109, 0.5);
     color: #215a6d;
     font-family: "Playfair Display", serif;
-    padding:0 1px;
+    padding: 0 1px;
     text-decoration: none;
 }
 
@@ -73,6 +75,6 @@ button.more {
 
 button.more:hover,
 button.more:active {
-    background:#215a6d;
-    color:#fff;
+    background: #215a6d;
+    color: #fff;
 }
