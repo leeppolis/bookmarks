@@ -32,18 +32,20 @@ class Card extends Component {
                         function(tag) {
                             if (i < 4) {
                                 i++;
-                                return <li key={tag}><Button value={tag} clicked={this.props.quickSearch} label={'#' + tag} variant="tag" /></li>;
+                                return <li key={tag.trim()}><Button value={tag.trim()} clicked={this.props.quickSearch} label={'#' + tag.trim()} variant="tag" /></li>;
                             } else if (i === 4 && this.props.fields.tags.length <= 5) {
                                 i++;
-                                return <li key={tag}><Button value={tag} clicked={this.props.quickSearch} label={'#' + tag} variant="tag" /></li>;
-                            } else if ( i === 4) {
+                                return <li key={tag.trim()}><Button value={tag.trim()} clicked={this.props.quickSearch} label={'#' + tag.trim()} variant="tag" /></li>;
+                            } else if ( i === 4 ) {
                                 i++;
                                 let remaining = (this.props.fields.tags.length - 5);
                                 remaining = ( remaining < 11 ) ? remaining : '10+';
-                                return <li className="with-switch" key={tag}><Button value={tag} clicked={this.props.quickSearch} label={'#' + tag} variant="tag" /> <Button clicked={this.showMore} label={remaining} variant="more" /></li>;
+                                return <li className="with-switch" key={tag.trim()}><Button value={tag.trim()} clicked={this.props.quickSearch} label={'#' + tag.trim()} variant="tag" /> <Button clicked={this.showMore} label={remaining} variant="more" /></li>;
+                            } else if ( i === this.props.fields.tags.length - 1 ) {
+                                return <li className="additional with-switch" key={tag}><Button value={tag.trim()} clicked={this.props.quickSearch} label={'#' + tag.trim()} variant="tag" /> <Button clicked={this.showMore} label="collapse" variant="more" /></li>;
                             } else {
                                 i++;
-                                return <li className="additional" key={tag}><Button value={tag} clicked={this.props.quickSearch} label={'#' + tag} variant="tag" /></li>;
+                                return <li className="additional" key={tag.trim()}><Button value={tag.trim()} clicked={this.props.quickSearch} label={'#' + tag.trim()} variant="tag" /></li>;
                             }
                         },
                         this

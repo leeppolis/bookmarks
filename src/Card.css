@@ -149,6 +149,14 @@
     .card footer .show-all li.additional {
         display:inline-block;
     }
+
+    .card footer .show-all li.additional.with-switch button.more {
+        display: inline-block;
+    }
+
+    .card footer .show-all li.additional.with-switch:after {
+        content:".";
+    }
 }
 
 @media screen and (min-width: 959px) {

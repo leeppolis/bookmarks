@@ -1,67 +1,498 @@
 {
-    "cards": [{
-            "id": 2,
-            "title": "BACCALÀ Premiere Issue",
-            "media": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/macfamily-productnav-imac_2x.png",
-            "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
-            "link": "https://rivistabaccala.com/shop/fw17/",
-            "tags": ["imported", "inspiration", "photography", "art", "design"]
+    "cards": [
+        {
+            "id": "603",
+            "title": "Barcelona\u2019s New, Huge \u201cSuperblocks\u201d Are Designed To Stop Traffic, Fight Pollution",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/09\/a855f9d4ad53842a8ffec7acb37df6b8.jpg",
+            "content": "The nine-square-block areas are closed to everything but local traffic, filled with parks and pedestrian spaces, and change the way people interact with the city.\n",
+            "link": "https:\/\/www.fastcodesign.com\/3060066\/barcelonas-new-huge-superblocks-are-designed-to-stop-traffic-fight-poll",
+            "tags": [
+                "cities",
+                "imported"
+            ]
         },
         {
-            "id": 4,
+            "id": "602",
+            "title": "A Digital Volcano",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/09\/02db2a871e0831f039aa973bd2d47f74.jpg",
+            "content": "GE and Qwake brought a Nicaraguan volcano online to help drive the development of early warning systems for natural disasters. Descend into one of the world\u2019s most active volcanos with an immersive online expedition.",
+            "link": "https:\/\/www.ge.com\/digitalvolcano\/",
+            "tags": [
+                "imported",
+                " inspiration",
+                " science",
+                " infographic",
+                " dataviz"
+            ]
+        },
+        {
+            "id": "601",
+            "title": "BACCAL\u00c0 Premiere Issue",
+            "media": "",
+            "content": "Fall\/Winter 2017 featuring\u00a0Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant\u2019Angelo . Yeah Sure Real Mature by Danny Sangra . It\u2019s Something Personal by Alessandro Casagrande .\u00a0Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio . \u00a0Yellow Days by Jasmine Deporta . Baccal\u00e0 Mare Nostrum Recipe by Massimo Bottura",
+            "link": "https:\/\/rivistabaccala.com\/shop\/fw17\/",
+            "tags": [
+                "imported",
+                " inspiration",
+                " photography",
+                " art",
+                " design"
+            ]
+        },
+        {
+            "id": "600",
             "title": "From Sex Object to Gritty Woman: The Evolution of Women in Stock Photos",
-            "media": "https://cdn.koolmoe.at/cdn/6tg4-56fwvjhgvdf8bndjcfyr32-utr67/2017/09/f2edae75aba2829f84b6dbcf186ffa54.jpg",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/09\/f2edae75aba2829f84b6dbcf186ffa54.jpg",
             "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
-            "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
-            "tags": ["photography", "women", "advertising", "discrimination", "getty images"]
+            "link": "https:\/\/www.nytimes.com\/2017\/09\/07\/upshot\/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
+            "tags": [
+                "women and girls",
+                "photography",
+                "advertising marketing",
+                "getty images",
+                "sheryl k sandberg",
+                "discrimination",
+                "advertising and marketing",
+                "sandberg",
+                " sheryl k",
+                "imported"
+            ]
         },
         {
-            "id": 22,
-            "title": "BACCALÀ Premiere Issue",
-            "media": null,
-            "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
-            "link": "https://rivistabaccala.com/shop/fw17/",
-            "tags": ["imported", "inspiration", "photography", "art", "design"]
+            "id": "599",
+            "title": "An Introduction to CSS Scroll Snap Points",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/09\/5e975b011783b29e1b28855f52ea02a2.jpg",
+            "content": "The CSS Scroll Snap Module is a web standard that gives us some control over scrolling on a web page so that we can make users scroll to certain parts...",
+            "link": "http:\/\/www.hongkiat.com\/blog\/css-scroll-snap-points\/",
+            "tags": [
+                "coding",
+                "css",
+                "web developers",
+                "imported"
+            ]
         },
         {
-            "id": 24,
-            "title": "From Sex Object to Gritty Woman: The Evolution of Women in Stock Photos",
-            "media": "http://www.thefrontpage.it/wp-content/uploads/2013/03/BOOM.jpg",
-            "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
-            "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
-            "tags": ["photography", "women", "advertising", "discrimination", "getty images", "photogwraphy", "woemen", "adverrtising", "discrrimination", "gettry images", "sde", "weddd"]
+            "id": "598",
+            "title": "Mobile Ticketing a Milano: a che punto siamo? \u2013 Jacopo Pompilii \u2013 Medium",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/09\/287bada2dea57d4bc26417db87765295.jpg",
+            "content": "Nella citt\u00e0 fiore all\u2019occhiello per il trasporto pubblico e condiviso \u00e8 arrivato il momento di integrare i diversi servizi, incentivando l\u2026",
+            "link": "http:\/\/ift.tt\/2jjM1bb",
+            "tags": [
+                "imported"
+            ]
         },
         {
-            "id": 21,
-            "title": "BACCALÀ Premiere Issue",
-            "media": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/macfamily-productnav-imac_2x.png",
-            "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
-            "link": "https://rivistabaccala.com/shop/fw17/",
-            "tags": ["imported", "inspiration", "photography", "art", "design"]
+            "id": "597",
+            "title": "Why car designers stick with clay",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/09\/943331416775b9df9e06509721d4ea1a.jpg",
+            "content": "In an age when vehicle styling teams have supercomputers and virtual reality at their disposal, a venerable \u2014 and defiantly low-tech \u2014 design tool persists.",
+            "link": "http:\/\/www.bbc.com\/autos\/story\/20161111-why-car-designers-stick-with-clay?ocid=ww.social.link.twitter",
+            "tags": {
+                "0": "story",
+                "1": " story",
+                "2": " story",
+                "3": " image",
+                "5": "imported"
+            }
         },
         {
-            "id": 43,
-            "title": "From Sex Object to Gritty Woman: The Evolution of Women in Stock Photos",
-            "media": "https://cdn.koolmoe.at/cdn/6tg4-56fwvjhgvdf8bndjcfyr32-utr67/2017/09/f2edae75aba2829f84b6dbcf186ffa54.jpg",
-            "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
-            "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
-            "tags": ["photography", "women", "advertising", "discrimination", "getty images"]
+            "id": "596",
+            "title": "Domino\u2019s and Ford will test self-driving pizza delivery cars in Michigan",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/08\/2131b86e54bd037df678a4cb9561f2da.jpg",
+            "content": "Ford and Domino\u2019s Pizza are teaming up to test self-driving pizza delivery cars in Michigan, as part of an effort to better understand how customers respond to and interact with autonomous...",
+            "link": "https:\/\/www.theverge.com\/2017\/8\/29\/16213544\/dominos-ford-pizza-self-driving-car",
+            "tags": [
+                "imported"
+            ]
         },
         {
-            "id": 322,
-            "title": "BACCALÀ Premiere Issue",
-            "media": null,
-            "content": "Fall/Winter 2017 featuring Aomi Muyock shot by Alice Rosati . Andrew Durham on set with Sofia Coppola . Studio Visit with Brian Lotti . Artist Portraits by Damon Way . Polaroids by Scott A. Sant’Angelo . Yeah Sure Real Mature by Danny Sangra . It’s Something Personal by Alessandro Casagrande . Stories We Build, Stories We Tell by Vince Aung . Stuff in Storage with Tony Arcabascio .  Yellow Days by Jasmine Deporta . Baccalà Mare Nostrum Recipe by Massimo Bottura",
-            "link": "https://rivistabaccala.com/shop/fw17/",
-            "tags": ["imported", "inspiration", "photography", "art", "design"]
+            "id": "595",
+            "title": "How Human Memory Works: Tips for UX Designers.",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/08\/3c143102e311dfab85db422b28ca75d6.jpg",
+            "content": "The article giving insights into the ways human memory works and considering the factors of its influence on UX design solutions for websites and mobile apps.",
+            "link": "http:\/\/tubikstudio.com\/how-human-memory-works-tips-for-ux-designers\/?utm_content=buffercdee0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+            "tags": [
+                "ux",
+                "ui",
+                "design",
+                "tubik",
+                "web",
+                "app",
+                "mobile",
+                "human memory",
+                "app design",
+                "design studio",
+                "design tips",
+                "graphic design",
+                "hci",
+                "human-centered",
+                "human-computer interaction",
+                "icons",
+                "illustration",
+                "interface",
+                "mobile app",
+                "product design",
+                "tips",
+                "tubik studio",
+                "usability",
+                "user experience",
+                "user interface",
+                "ux\/ui",
+                "web design",
+                "webdesign",
+                "processes and tools",
+                "ui\/ux",
+                "imported"
+            ]
         },
         {
-            "id": 224,
-            "title": "From Sex Object to Gritty Woman: The Evolution of Women in Stock Photos",
-            "media": "http://www.thefrontpage.it/wp-content/uploads/2013/03/BOOM.jpg",
-            "content": "Generic images used in ads, billboards, magazines and blogs hold up a mirror to culture at a particular moment in time. But can they also subtly influence it?",
-            "link": "https://www.nytimes.com/2017/09/07/upshot/from-sex-object-to-gritty-woman-the-evolution-of-women-in-stock-photos.html",
-            "tags": ["photography", "women", "advertising", "discrimination", "getty images"]
+            "id": "594",
+            "title": "One Designer\u2019s Urgent Mission: Preserve Classic City Signage Before It Disappears",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/08\/7f71b28b7808ef28804143614b0491ae.jpg",
+            "content": "Her latest book documents the signs and storefronts in Barcelona.\n",
+            "link": "https:\/\/www.fastcodesign.com\/90137812\/one-designers-urgent-mission-preserve-classic-city-signage-before-it-disappears",
+            "tags": [
+                "graphics",
+                " barcelona",
+                "barcelona",
+                "imported"
+            ]
+        },
+        {
+            "id": "593",
+            "title": "Chi ha mangiato tutte le torte? - The LondoNerD",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/08\/e5226515780eec8dd5219282809523ad.jpg",
+            "content": "Chi ha mangiato tutte le torte?",
+            "link": "http:\/\/thelondonerd.com\/chi-ha-mangiato-tutte-le-torte\/",
+            "tags": [
+                "alcool",
+                "arbitro",
+                "archibald leitch",
+                "architetto",
+                "bradford city",
+                "butcher's hook",
+                "calciatore",
+                "calcio",
+                "campionato",
+                "cane",
+                "capitano",
+                "chelsea football club",
+                "cirrosi epatica",
+                "coro da stadio",
+                "craven cottage",
+                "dolore",
+                "fa cup",
+                "fat bastard",
+                "fatty",
+                "finale",
+                "fred parker",
+                "fulham",
+                "fulham broadway",
+                "fulham road",
+                "galles",
+                "gran bretagna",
+                "great western railway",
+                "gus mears",
+                "illusione",
+                "james kenyon",
+                "mano",
+                "morso",
+                "m\u00fcller-lyer",
+                "nazionale inglese",
+                "peso",
+                "porta",
+                "portiere",
+                "pub",
+                "raccattapalle",
+                "rich masters",
+                "rigori",
+                "rising sun",
+                "sagar mitchell",
+                "sangue",
+                "scottish terrier",
+                "sheffield",
+                "sheffield united",
+                "southampton",
+                "stadio",
+                "stamford bridge",
+                "stamford bridge athletics ground",
+                "traversa",
+                "universit\u00e0 di hong kong",
+                "who ate all the pies",
+                "william foulke",
+                "imported"
+            ]
+        },
+        {
+            "id": "592",
+            "title": "Racism Is So Bad In This State, The NAACP Is Telling Black People To Avoid It",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/08\/78212ad88da83c0838a491367e105189.jpg",
+            "content": "It's the first state-wide warning ever issued by the civil rights organization.",
+            "link": "http:\/\/www.good.is\/articles\/naacp-travel-warning-racism?sid=sst613070uh",
+            "tags": [
+                "missouri",
+                "imported"
+            ]
+        },
+        {
+            "id": "590",
+            "title": "Working From Home Makes You Happier and 'Massively' More Productive, According to Science",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/ad0dc96b03b87478d8bf8fb799a602b7.jpg",
+            "content": "A company in Singapore made half its employees work from home for two years. The results will astound you.",
+            "link": "http:\/\/on.inc.com\/2t0252g",
+            "tags": [
+                "imported"
+            ]
+        },
+        {
+            "id": "591",
+            "title": "Find the best Python books - pythonbooks.org",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/3b4f4e745b30ae8c9e87cdbbb101765e.jpg",
+            "content": "Pythonbooks ranks the best Python books for beginners, intermediate programmers and 15 different specializations.",
+            "link": "http:\/\/pythonbooks.org",
+            "tags": [
+                "python",
+                "programming",
+                "imported"
+            ]
+        },
+        {
+            "id": "589",
+            "title": "Why a Toaster Is a Design Triumph",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/e83d62321216188a6fc0386bbd055d71.jpg",
+            "content": "The \u201cA Bit More\u201d button doesn\u2019t reinvent the appliance\u2019s form. It finds its soul instead.",
+            "link": "https:\/\/www.theatlantic.com\/technology\/archive\/2017\/07\/toaster-a-bit-more-button\/534312\/",
+            "tags": [
+                "the atlantic",
+                " the atlantic magazine",
+                " theatlantic.com",
+                " atlantic",
+                " news",
+                " opinion",
+                " breaking news",
+                " analysis",
+                " commentary",
+                " business",
+                " politics",
+                " culture",
+                " international",
+                " science",
+                " technology",
+                " national and life",
+                "imported"
+            ]
+        },
+        {
+            "id": "588",
+            "title": "Germany has ended a century-long debate over a missing letter in its alphabet",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/d6c6fe97b2378eda241e25c00e1e16e1.jpg",
+            "content": "Until now, German had 30 lowercase letters but only 29 uppercase ones.",
+            "link": "https:\/\/qz.com\/1033265\/germanys-century-long-debate-over-a-missing-letter-in-its-alphabet\/",
+            "tags": {
+                "0": "alphabet",
+                "1": " andreas sttzner",
+                "3": " blackletter",
+                "4": " council for german orthography",
+                "5": " der rat fr deutsche rechtschreibung",
+                "6": " eszett",
+                "7": " font",
+                "8": " german",
+                "9": " germany",
+                "10": "imported"
+            }
+        },
+        {
+            "id": "587",
+            "title": "How I Discovered the First Big Mobile Privacy Scandal",
+            "media": "http:\/\/cdn.flipboard.com\/vice.com\/a78e3cbe5d835ce4fca9ccc8aee956d33bf595e3\/original.jpg",
+            "content": "That smartphones can track our every movement seems obvious today, but in 2011 we weren't quite used to the idea.",
+            "link": "https:\/\/motherboard.vice.com\/en_us\/article\/43d5e3\/iphone-locationgate-2011-privacy",
+            "tags": [
+                "imported"
+            ]
+        },
+        {
+            "id": "586",
+            "title": "Meet the Artist Who Journals With GIFs! - Threadless Blog",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/30ae77313ac8f2d2c6cdd6988c5fa90d.jpg",
+            "content": "Feel like dancin'? You might when you see Ailadi's dance-worthy designs! We talk to this artist about everything from her GIF journals to her travels.",
+            "link": "https:\/\/blog.threadless.com\/talking-gif-journals-travel-music-with-ailadi\/",
+            "tags": [
+                "ailadi",
+                "colorful art",
+                "dancing",
+                "music",
+                "patterns",
+                "imported"
+            ]
+        },
+        {
+            "id": "585",
+            "title": "Meet The Internet Warriors",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/f54794a0dd2233e79ca758187011e612.jpg",
+            "content": "Meet The Internet Warriors",
+            "link": "https:\/\/theinternetwarriors.com\/",
+            "tags": [
+                "imported",
+                " sociology",
+                " trolling",
+                " book",
+                " inspiration"
+            ]
+        },
+        {
+            "id": "584",
+            "title": "Peter Behrens",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/ae133bbc9854a3dc5f9ac542122d155f.jpg",
+            "content": "The first designer.",
+            "link": "http:\/\/enso.readymag.com\/peter-behrens\/",
+            "tags": [
+                "imported",
+                " inspiration",
+                " design"
+            ]
+        },
+        {
+            "id": "583",
+            "title": "Dan Perrera",
+            "media": "",
+            "content": "The personal website of Dan Perrera.",
+            "link": "https:\/\/perrera.com\/",
+            "tags": [
+                "imported",
+                " inspiration"
+            ]
+        },
+        {
+            "id": "582",
+            "title": "The Typography & Design of Vehicle Dashboards - Print Magazine",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/8aa6fbfaf84c52309097529ef5b7eecb.png",
+            "content": "Sometimes typography really is a matter of life and death. Are automakers keeping us safe with dashboard design and typography\u2014both now and in the future?",
+            "link": "http:\/\/2m3.it\/1K",
+            "tags": [
+                "typography",
+                "imported"
+            ]
+        },
+        {
+            "id": "581",
+            "title": "Floating labels are problematic \u2013 Simple = Human \u2013 Medium",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/07\/0e563055b800623fc21cdc68cee10230.gif",
+            "content": "After writing Placeholders are Problematic some people suggested the floating label pattern.",
+            "link": "http:\/\/ift.tt\/2qqlM6e",
+            "tags": [
+                "imported"
+            ]
+        },
+        {
+            "id": "580",
+            "title": "Here\u2019s How N.Y.C.\u2019s Five Boroughs Should Really Be Defined",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/06\/d07e21cf07022c9bdef683d2b9196379.jpg",
+            "content": "Would you live in the Meadows or Minihattan?\n",
+            "link": "https:\/\/www.fastcodesign.com\/90131540\/this-startup-used-ai-to-redefine-n-y-c-s-five-boroughs-for-today",
+            "tags": [
+                "cities",
+                " artificial intelligence",
+                "artificial intelligence",
+                "imported"
+            ]
+        },
+        {
+            "id": "579",
+            "title": "Making Chatbots Talk \u2014 Writing Conversational UI Scripts Step by Step",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/06\/f8999f29867edcd55f8dbcfef6dd311c.png",
+            "content": "As a content writer, working in UX design agency, I\u2019ve learned to accept the fact that visuals usually have much bigger impact than the\u2026",
+            "link": "https:\/\/uxdesign.cc\/making-chatbots-talk-writing-conversational-ui-scripts-step-by-step-62622abfb5cf",
+            "tags": [
+                "bit",
+                " ai",
+                " conversational interfaces",
+                " chatbot"
+            ]
+        },
+        {
+            "id": "578",
+            "title": "Nuclear Weapons Site Alarms Shut Off, Scientists Inhale Uranium",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/06\/f9c8db7fdd45c30881f1d535ec9c0212.jpg",
+            "content": "Most scientists were not told of risks for months after 2014 incident; investigation shows more mishaps at Nevada and&nbsp;New Mexico nuclear sites",
+            "link": "https:\/\/www.scientificamerican.com\/article\/nuclear-weapons-site-alarms-shut-off-scientists-inhale-uranium\/",
+            "tags": [
+                "uranium",
+                " nuclear weapons",
+                " health",
+                " radiation",
+                "imported"
+            ]
+        },
+        {
+            "id": "577",
+            "title": "Best Practices for Split Screen Design \u2013 UX Planet",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/06\/7ce11e1f6221a7f8147aa57d90299890.jpg",
+            "content": "One screen divided in two. More and more websites are using design patterns that include two vertical panels placed side by side. Split-screen design follows a simple rule:",
+            "link": "https:\/\/uxplanet.org\/best-practices-for-split-screen-design-ad8507d92e66",
+            "tags": [
+                "inspiration",
+                " ui",
+                " vd",
+                " design",
+                " split screen"
+            ]
+        },
+        {
+            "id": "576",
+            "title": "How to Design a Daring but Effective Split-Screen Layout \u2014 SitePoint",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/06\/5f218d4d2aeca2eeea9921017d76b2a1.jpg",
+            "content": "Split-screen layouts are a bold stylistic choice but not suited to all designs. Today, Daniel balances some design inspiration with a few words of caution.",
+            "link": "https:\/\/www.sitepoint.com\/how-to-design-a-daring-but-effective-split-screen-layout\/",
+            "tags": [
+                "alexw",
+                "layout",
+                "negative space",
+                "split screen",
+                "vertical columns",
+                "inspiration",
+                " ui",
+                " vd",
+                " design",
+                " split screen"
+            ]
+        },
+        {
+            "id": "575",
+            "title": "20 Examples of Vertical Split-Screen Layout in Web Design",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/06\/4b606850da6a8d45b7c7ef504aff3e15.jpg",
+            "content": "A split-screen layout is in use when full-screen elements are divided into two or more vertical parts. Despite the fact that such kind of website layouts are trendy these days,...",
+            "link": "http:\/\/www.hongkiat.com\/blog\/vertical-split-screen-layouts\/",
+            "tags": [
+                "web design",
+                "cool websites",
+                "split screen",
+                "inspiration",
+                " ui",
+                " vd",
+                " design",
+                " split screen"
+            ]
+        },
+        {
+            "id": "574",
+            "title": "24 Examples Of Split-Screen Layout In Web Design | Web & Graphic Design | Bashooka",
+            "media": "https:\/\/cdn.koolmoe.at\/cdn\/6tg4-56fwvjhgvdf8bndjcfyr32-utr67\/2017\/06\/b76804b1ae31f348483e0b8f7dabe4e6.jpg",
+            "content": "If you offer goods, as well as services, you may feature your products on one side of a split screen and then highlight your services on the other side. So here, we take a look at some of examples of split-screen layout in Web design.",
+            "link": "http:\/\/bashooka.com\/inspiration\/24-examples-of-split-screen-layout-in-web-design\/",
+            "tags": [
+                "split-screen-web design",
+                "inspiration",
+                "layout",
+                "web design",
+                "imported",
+                " inspiration",
+                " ui",
+                " vd",
+                " design",
+                " split screen"
+            ]
         }
-    ]
+    ],
+    "message": "OK"
 }
