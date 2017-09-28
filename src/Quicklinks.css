@@ -1,0 +1,51 @@
+.quicklinks {
+    display:none;
+    margin:30px 0 0 0;
+}
+
+.quicklinks.visible {
+    display:block;
+}
+
+.quicklinks ul,
+.quicklinks li {
+        list-style:none;
+        margin:0;
+        padding:0;
+}
+
+.quicklinks ul {
+    display:block;
+    text-align:left;
+}
+
+.quicklinks li {
+    display:inline-block;
+    margin-right:5px;
+}
+
+.quicklinks li:after {
+    content:",";
+}
+
+.quicklinks li:first-child:after {
+    content:":";
+}
+
+.quicklinks li:last-child:after {
+    content:".";
+}
+
+.quicklinks li,
+.quicklinks li button { 
+    font-size:14px;
+    line-height:1.5;
+}
+
+@media screen and (min-width: 959px) {
+    .quicklinks li,
+    .quicklinks li button { 
+        font-size:16px;
+        line-height:1.5;
+    } 
+}

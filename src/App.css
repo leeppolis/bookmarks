@@ -1,0 +1,175 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?870ea1');
+  src:  url('fonts/icomoon.eot?870ea1#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?870ea1') format('truetype'),
+    url('fonts/icomoon.woff?870ea1') format('woff'),
+    url('fonts/icomoon.svg?870ea1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e5cd";
+}
+.icon-dashboard:before {
+  content: "\e871";
+}
+.icon-list:before {
+  content: "\e3c7";
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  background: #fcfcfc;
+  color: #2d2d29;
+  font-family: "Playfair Display", serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+strong, b {
+  font-weight: 700;
+}
+
+em, i {
+  font-style: italic;
+}
+
+h1, h2, h3, h4, h5 {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 900;
+  letter-spacing: .2em;
+  line-height: 1.5;
+  margin-top: 30px;
+  text-transform: uppercase;
+}
+
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child {
+  margin-top:0;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.body-wrapper {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 1400px;
+  min-width: 300px;
+  width: 90%;
+}
+
+.body-wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  box-shadow: inset 0 -6px 1px 0 rgba(223, 236, 230, 0.5);
+  border-bottom: 1px solid rgba(33, 90, 109, 0.5);
+  color: #215a6d;
+  text-decoration: none;
+}
+
+a:hover {
+  background: rgba(223, 236, 230, 0.25);
+  color: #215a6d;
+}
+
+@media print {
+  a {
+      box-shadow: none;
+      border-bottom: none;
+      text-decoration: underline;
+  }
+}
+
+p {
+  margin-bottom:0;
+  margin-top: 0;
+}
+
+footer {
+  height: 140px;
+  line-height: 140px;
+}
+
+@media screen and (min-width: 959px) {
+  footer {
+      padding: 0 60px;
+  }
+}
+
+@media print {
+  footer {
+      display: none;
+  }
+}
+
+.title {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  margin-top: 60px;
+  position: relative;
+}
+
+.title:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.title h2 {
+  margin-top:0;
+}
+
+.title .changeView {
+  display:block;
+  height:30px;
+  position:absolute;
+  right:0;
+  top:50%;
+  transform:translate3d(0,-50%,0);
+  width:30px;
+}
+
+@media screen and (min-width: 959px) {
+  .title {
+      margin-left: 60px;
+      padding-right: 60px;
+  }
+
+  .title .changeView {
+    right:60px;
+  }
+}

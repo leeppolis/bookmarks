@@ -1,0 +1,66 @@
+.grid {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  margin-top: 60px;
+  position: relative;
+}
+
+.grid .items,
+.grid .items .item {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.grid .items {
+
+}
+
+.grid .items .item {
+    display:block;
+}
+
+@media screen and (min-width: 760px) {
+    .grid .items {
+        align-content: flex-start;
+        align-items: flex-start;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        margin: 0 -20px;
+        width:auto;
+    }
+
+    .grid .items .item {
+        align-self: auto;
+        flex: 1 1 50%;
+        max-width:50%;
+        order: 0;
+        padding:0 20px 20px 20px;
+
+    }
+}
+
+@media screen and (min-width: 959px) {
+    .grid {
+        margin-left: 60px;
+        padding-right: 60px;
+    }
+  
+    .grid .items .item {
+        flex-basis: 33.333333332%;
+        max-width:33.333333332%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .grid .items .item {
+        flex-basis: 25%;
+        max-width:25%;
+    }
+}
+
+
+

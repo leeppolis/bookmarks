@@ -1,0 +1,63 @@
+button {
+    background:transparent;
+    border:0;
+    color:#222;
+    cursor:pointer;
+    display:inline-block;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size:1.2rem;
+    line-height:1;
+    padding:0;
+    margin:0;    
+    transition: all .5s ease-in-out;
+    will-change:color;
+}
+
+button.hidden {
+    display:none;
+}
+
+button.icon {
+    font-family: 'icomoon' !important;
+    font-size:1.6rem;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 1;
+    speak: none;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+button.icon:hover,
+button.icon:active {
+    color: #215a6d;
+}
+
+button.icon.resetSearch:before {
+    content: "\e5cd";
+}
+
+button.icon.cards:before {
+    content: "\e3c7";
+}
+
+button.icon.list:before {
+    content: "\e871";
+}
+
+button.tag {
+    box-shadow: inset 0 -6px 1px 0 rgba(223, 236, 230, 0.5);
+    border-bottom: 1px solid rgba(33, 90, 109, 0.5);
+    color: #215a6d;
+    font-family: "Playfair Display", serif;
+    padding:0 1px;
+    text-decoration: none;
+}
+
+button.tag:hover,
+button.tag:active {
+    background: rgba(223, 236, 230, 0.25);
+    color: #215a6d;
+}
