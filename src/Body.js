@@ -7,6 +7,7 @@ import Button from "./Button.js";
 class Body extends Component {
 	constructor(props) {
 		super(props);
+		
 		this.getUrl = function( resource, param ) {
 			let output = null;
 			let hostname = window.location.hostname; 
@@ -27,6 +28,27 @@ class Body extends Component {
 			}
 			return output;
 		};
+
+		this.checkHash = function(e) {
+			var term = '';
+			if ( window.location.hash === '#!/' ) {
+				this.setState( { term: '' }, this.doSearch );
+			} else {
+				if ( window.location.hash.indexOf('#!/term/') > -1 ) {
+					term = unescape( window.location.hash.replace(/#!\/term\//ig,'') );
+				} 
+				if (term && term !== '#!/') {
+					this.setState( { term: term }, this.doSearch );
+				} else {
+					this.setState( { term: term }, () => { this.redirect('') } );
+				}
+			}
+		}
+
+		this.redirect = function( term ) {
+			window.location.hash = '#!/' + (( term ) ? escape( term ) : '');
+		}
+
 		this.searchSubmit = this.searchSubmit.bind(this);
 		this.typingSearchTerm = this.typingSearchTerm.bind(this);
 		this.quickSearch = this.quickSearch.bind(this);
@@ -39,7 +61,8 @@ class Body extends Component {
 	}
 
 	resetSearch() {
-		this.setState( { term: '' }, this.doSearch );
+		// this.setState( { term: '' }, this.doSearch );
+		this.redirect('');
 	}
 
 	setViewMode() {
@@ -51,6 +74,11 @@ class Body extends Component {
 	}
 
 	componentDidMount() {
+		window.addEventListener(
+			"hashchange",
+			this.checkHash.bind(this)
+		);
+		this.checkHash();
 		this.doSearch();
 		this.doLoad(
 			this.getUrl('quicklinks', ''),
@@ -129,12 +157,14 @@ class Body extends Component {
 	}
   
   quickSearch( e ) {
-		this.setState( { term: e.target.value }, this.doSearch );
+		// this.setState( { term: e.target.value }, this.doSearch );
+		this.redirect( 'term/' + e.target.value );
   }
   
   searchSubmit(e) {
 		e.preventDefault();
-		this.doSearch();
+		// this.doSearch();
+		this.redirect( 'term/' + this.state.term );
   }
   
   typingSearchTerm(e) {
